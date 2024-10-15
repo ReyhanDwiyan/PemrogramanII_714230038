@@ -1,0 +1,7 @@
+D:\Kuliah\SEMESTER 3\Pemrograman\Pertemuan 2\Pertemuan2_Real\Pertemuan2_Real\bin\Debug\Pertemuan2_Real.exe.config
+D:\Kuliah\SEMESTER 3\Pemrograman\Pertemuan 2\Pertemuan2_Real\Pertemuan2_Real\bin\Debug\Pertemuan2_Real.exe
+D:\Kuliah\SEMESTER 3\Pemrograman\Pertemuan 2\Pertemuan2_Real\Pertemuan2_Real\bin\Debug\Pertemuan2_Real.pdb
+D:\Kuliah\SEMESTER 3\Pemrograman\Pertemuan 2\Pertemuan2_Real\Pertemuan2_Real\obj\Debug\Pertemuan2_Real.csproj.AssemblyReference.cache
+D:\Kuliah\SEMESTER 3\Pemrograman\Pertemuan 2\Pertemuan2_Real\Pertemuan2_Real\obj\Debug\Pertemuan2_Real.csproj.CoreCompileInputs.cache
+D:\Kuliah\SEMESTER 3\Pemrograman\Pertemuan 2\Pertemuan2_Real\Pertemuan2_Real\obj\Debug\Pertemuan2_Real.exe
+D:\Kuliah\SEMESTER 3\Pemrograman\Pertemuan 2\Pertemuan2_Real\Pertemuan2_Real\obj\Debug\Pertemuan2_Real.pdb
