@@ -1,0 +1,8 @@
+14. Error dikarenakan pada Variable myType menggunakan Protected. sehingga tidak bisa langsung diakses dan hanya bisa di akses pada class itu sendiri & Turunannya
+19. pada class Product_714230038 sudah dideklarasikan method public. jadi yang sebelumnya protected bisa diakses di class turunannya
+24. Yang muncul adalah DVD karena objek myProduct mengubah nilai variabel myType menjadi DVD. Ketika program dijalankan, pembacaan dilakukan dari atas ke bawah, sehingga nilai variabel yang baru diubah akan muncul terlebih dahulu.
+
+
+8. tipe dan judul tidak muncul karena nilai tipe dan judul tidak diteruskan ke kelas induk. Class buku hanya menetapkan pageCount tapi tidak memberi tahu induknya tentang tipe dan judul. Dalam OOP, hal ini disebut dengan constructor chaining di mana konstruktor class anak harus memanggil konstruktor class induk untuk memastikan semua data yang diperlukan diinisialisasi.
+12. Output tersebut muncul karena class Book memanggil konstruktor induknya untuk memastikan nilai dari myType dan myTitle dapat diteruskan ke class induk. Hal ini dilakukan dengan menambahkan base() yang mengambil parameter tipe dan judul.
+19. alasan objek product2 diinisialisasi berbeda dengan product1 adalah karena pada kelas DVD_714230038, nilai MyType dan MyTitle secara langsung di-set di dalam constructor nya tanpa memanggil constructor kelas induk (Product_714230069).
