@@ -1,0 +1,11 @@
+D:\Kuliah\SEMESTER 3\Pemrograman\Pertemuan 5\PRAKTIKUM\P5_2_714230038\P5_2_714230038\bin\Debug\P5_2_714230038.exe.config
+D:\Kuliah\SEMESTER 3\Pemrograman\Pertemuan 5\PRAKTIKUM\P5_2_714230038\P5_2_714230038\bin\Debug\P5_2_714230038.exe
+D:\Kuliah\SEMESTER 3\Pemrograman\Pertemuan 5\PRAKTIKUM\P5_2_714230038\P5_2_714230038\bin\Debug\P5_2_714230038.pdb
+D:\Kuliah\SEMESTER 3\Pemrograman\Pertemuan 5\PRAKTIKUM\P5_2_714230038\P5_2_714230038\obj\Debug\P5_2_714230038.csproj.AssemblyReference.cache
+D:\Kuliah\SEMESTER 3\Pemrograman\Pertemuan 5\PRAKTIKUM\P5_2_714230038\P5_2_714230038\obj\Debug\P5_2_714230038.ChildForm.resources
+D:\Kuliah\SEMESTER 3\Pemrograman\Pertemuan 5\PRAKTIKUM\P5_2_714230038\P5_2_714230038\obj\Debug\P5_2_714230038.ParentForm.resources
+D:\Kuliah\SEMESTER 3\Pemrograman\Pertemuan 5\PRAKTIKUM\P5_2_714230038\P5_2_714230038\obj\Debug\P5_2_714230038.Properties.Resources.resources
+D:\Kuliah\SEMESTER 3\Pemrograman\Pertemuan 5\PRAKTIKUM\P5_2_714230038\P5_2_714230038\obj\Debug\P5_2_714230038.csproj.GenerateResource.cache
+D:\Kuliah\SEMESTER 3\Pemrograman\Pertemuan 5\PRAKTIKUM\P5_2_714230038\P5_2_714230038\obj\Debug\P5_2_714230038.csproj.CoreCompileInputs.cache
+D:\Kuliah\SEMESTER 3\Pemrograman\Pertemuan 5\PRAKTIKUM\P5_2_714230038\P5_2_714230038\obj\Debug\P5_2_714230038.exe
+D:\Kuliah\SEMESTER 3\Pemrograman\Pertemuan 5\PRAKTIKUM\P5_2_714230038\P5_2_714230038\obj\Debug\P5_2_714230038.pdb
