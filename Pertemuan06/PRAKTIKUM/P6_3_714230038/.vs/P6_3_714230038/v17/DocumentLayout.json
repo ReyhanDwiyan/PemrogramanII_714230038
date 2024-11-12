@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kuliah\\SEMESTER 3\\Pemrograman\\PemrogramanII_714230038\\Pertemuan06\\PRAKTIKUM\\P6_3_714230038\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6A9620-2186-4773-B13E-7B8F9B6011D5}|P6_3_714230038\\P6_3_714230038.csproj|d:\\kuliah\\semester 3\\pemrograman\\pemrogramanii_714230038\\pertemuan06\\praktikum\\p6_3_714230038\\p6_3_714230038\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D6A9620-2186-4773-B13E-7B8F9B6011D5}|P6_3_714230038\\P6_3_714230038.csproj|solutionrelative:p6_3_714230038\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6A9620-2186-4773-B13E-7B8F9B6011D5}|P6_3_714230038\\P6_3_714230038.csproj|d:\\kuliah\\semester 3\\pemrograman\\pemrogramanii_714230038\\pertemuan06\\praktikum\\p6_3_714230038\\p6_3_714230038\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6A9620-2186-4773-B13E-7B8F9B6011D5}|P6_3_714230038\\P6_3_714230038.csproj|solutionrelative:p6_3_714230038\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Kuliah\\SEMESTER 3\\Pemrograman\\PemrogramanII_714230038\\Pertemuan06\\PRAKTIKUM\\P6_3_714230038\\P6_3_714230038\\Form1.cs",
+              "RelativeDocumentMoniker": "P6_3_714230038\\Form1.cs",
+              "ToolTip": "D:\\Kuliah\\SEMESTER 3\\Pemrograman\\PemrogramanII_714230038\\Pertemuan06\\PRAKTIKUM\\P6_3_714230038\\P6_3_714230038\\Form1.cs",
+              "RelativeToolTip": "P6_3_714230038\\Form1.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T12:45:12.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Kuliah\\SEMESTER 3\\Pemrograman\\PemrogramanII_714230038\\Pertemuan06\\PRAKTIKUM\\P6_3_714230038\\P6_3_714230038\\Form1.cs",
+              "RelativeDocumentMoniker": "P6_3_714230038\\Form1.cs",
+              "ToolTip": "D:\\Kuliah\\SEMESTER 3\\Pemrograman\\PemrogramanII_714230038\\Pertemuan06\\PRAKTIKUM\\P6_3_714230038\\P6_3_714230038\\Form1.cs [Design]",
+              "RelativeToolTip": "P6_3_714230038\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T12:11:23.608Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
